@@ -8,7 +8,7 @@ Note: to not make the list too large & unreadable, we wonly focus on core-import
 # Developers & Programmers
 
 ## Giants
-- [Anysphere](https://anysphere.inc/) - THe team behind [Cursor](https://www.cursor.com/blog)
+- [Anysphere](https://anysphere.inc/) - The team behind [Cursor](https://www.cursor.com/blog)
 
 
 
